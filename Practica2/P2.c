@@ -2,7 +2,7 @@
 
 int opcion;
 int main(){
-	int a, b, i, j,c=0,d; 
+	int a, b, i, j,c=0; 
     int tablero[8][8]; 
     
  short opcion=0;
